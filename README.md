@@ -1,2 +1,2 @@
 # miPrimerRepo
-Mi primer repositorio, inicianco con GitHub
+Mi primer repositorio, iniciando con GitHub
